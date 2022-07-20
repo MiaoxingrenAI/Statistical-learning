@@ -2,6 +2,7 @@
 
 $$ min_{w, b} \frac{1}{2} \|| w \||^2 $$
 
-$$ s.t. \ y_i()>=1, i = 1,2,... m.$$
+$$ s.t. \ y_i(w^T x_i + b)>=1, i = 1,2,... m.$$
 
+$\rho = min_{w, b}\frac{w^Tx_i + b}{||w||}$
 # $\alpha$
