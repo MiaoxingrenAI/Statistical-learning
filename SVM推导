@@ -5,6 +5,6 @@ $$ min_{w, b} \frac{1}{2} \|| w \||^2 $$
 $$ s.t. \ y_i(w^T x_i + b)>=1, i = 1,2,... m.$$
 
 $\rho = min_{w, b, x_i}\frac{w^Tx_i + b}{||w||}$
-$ max min_{w, b} \frac{1}{2} \|| w \||^2 $
+$ max\ min_{w, b} \frac{1}{2} \|| w \||^2 $
 
 # $\alpha$
