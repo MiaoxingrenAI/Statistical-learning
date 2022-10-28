@@ -22,4 +22,4 @@ $ max\ min_{w, b} \frac{1}{2} \|| w \||^2 $
 4.1 hinge loss
 4.2 松弛因子
 # $\alpha$
-
+。
